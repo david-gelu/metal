@@ -4,32 +4,32 @@ const filter = [
     category: "fațadă",
     img: "img/Fatada-Corp-L.jpg",
     link: "proiect-1.html",
-    text: `486 de panouri prefabricate din țevi din aluminiu eloxat dispuse în doua planuri / structură din oțel sudată / sistem de ancoraj al structuri special proiectat pentru eliminarea punților termice.`,
-    title: "Fațadă aluminiu"
+    text: `486 panouri prefabricate realizate din țevi de aluminiu, dispuse în două planuri într-un model aleatoriu / Structură din oțel sudat / Sistem de ancorare conceput pentru a evita punțile termice.`,
+    title: "Fațadă din aluminiu"
   },
   {
     id: 2,
     category: "structură",
     img: "img/Scari-ISHO-P.jpg",
     link: "proiect-2.html",
-    text: `Structură metalică din profile laminate din oțel zincate la cald pentru regimul de înălțime de P+P+8Et / Podest intermediar în consolă cu deschidere de 3.3m.`,
-    title: "Scară metalică"
+    text: `Structură din oțel zincat la cald, realizată din profile laminate / Platformă cu scară exterioară de evacuare de 10,3 m / Scară de evacuare de 10 etaje.`,
+    title: "Scară etaje multiple"
   },
   {
     id: 3,
     category: "fațadă",
     img: "img/afi-tech-park-2.jpg",
     link: "proiect-3.html",
-    text: `Perete cortină / montanți ramforsanți cu inserții din aluminiu, metal / sticlă securizată SunGuard / placare cu bond / copertină cu structură din inox.`,
-    title: "Fațadă ventilată"
+    text: `Perete pentru perdea de sistem de lipit / Muluri armate cu inserții din oțel și aluminiu / Sticlă securizată SunGuard / Placare de legături / Copertină din oțel inoxidabil.`,
+    title: "Fațadă clădire de birouri"
   },
   {
     id: 4,
     category: "structură",
     img: "img/Car-Wash-Point-2.jpg",
     link: "proiect-4.html",
-    text: "Structură metalică din profile laminate din oțel zincatela cald / cupolă cu diametrul 7m.",
-    title: "Structură metalică"
+    text: "Structură din oțel zincat la cald realizată din profile laminate îndoite / Cupole cu diametrul de 7m.",
+    title: "Structură din oțel"
   },
 ];
 

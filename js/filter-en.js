@@ -4,32 +4,32 @@ const filter = [
     category: "facade",
     img: "../img/Fatada-Corp-L.jpg",
     link: "project-1.html",
-    text: `486 prefabricated panels made of aluminum pipes arranged in two planes/ welded steel structure / anchorage system of structures specially designed for the removal of thermal bridges.`,
-    title: "Aluminum facade"
+    text: `486 prefabricated panels made from aluminum pipes, arranged in two planes in a random pattern / Welded steel structure / Anchorage system designed to avoid thermal bridges.`,
+    title: "Aluminum façade"
   },
   {
     id: 2,
     category: "structure",
     img: "../img/Scari-ISHO-P.jpg",
     link: "project-2.html",
-    text: `Metallic structure from hot-galvanized steel laminated profiles for the height regime of GF + GF + 8Et / Podest intermediate console with 3.3m opening.`,
-    title: "Metallic staircase"
+    text: `Hot-dip galvanized steel structure made from laminated profiles / Platform with a 3.3m long cantilever / 10 storey evacuation exterior staircase.`,
+    title: "Multi Storey staircase"
   },
   {
     id: 3,
     category: "facade",
     img: "../img/afi-tech-park-2.jpg",
     link: "project-3.html",
-    text: `Curtain wall / reinforcing pillars with inserts in aluminum, metal / SunGuard secured glass  / bond cladding / cover with stainless steel frame.`,
-    title: "Ventilated facade"
+    text: `Stick system curtain wall / reinforced mullions with steel and aluminum inserts / SunGuard secured glass / Bond cladding / Stainless steel canopy.`,
+    title: "Office building façade"
   },
   {
     id: 4,
     category: "structure",
     img: "../img/Car-Wash-Point-2.jpg",
     link: "project-4.html",
-    text: `Metallic structure made of hot rolled galvanized steel / dome with a diameter of 7m.`,
-    title: "Metallic structure"
+    text: `Hot-dip galvanized steel structure made from bent laminated profiles / 7m diameter dome.`,
+    title: "Steel structure"
   },
 ];
 
